@@ -11,5 +11,6 @@ nodemodules
 /MobilePaymentService/node_modules
 /PaymentService/node_modules
 /SMS_Service/node_modules
+/Backend/node_modules
 
 /.history
